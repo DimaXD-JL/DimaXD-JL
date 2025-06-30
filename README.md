@@ -24,8 +24,9 @@
 
 ###
 
+
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=0F62FE&width=450&lines=Hi%2C+I%E2%80%99m+Dzmitry+Stashkevich;Frontend+Developer+in+progress...;Learning+Angular%2C+TypeScript+%26+JavaScript" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=0F62FE&width=500&lines=Hi%2C+I%E2%80%99m+Dzmitry+Stashkevich;Frontend+Developer+in+progress...;Learning+Angular%2C+TypeScript+%26+JavaScript;" alt="Typing SVG" />
 </p>
 
 ###
