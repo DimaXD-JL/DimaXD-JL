@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">🌍I´m a Frontend-Developer from Neuruppin</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Max+Mustermann;Frontend+Developer+in+progress...;Learning+React%2C+Tailwind+%26+AI+tools" alt="Typing SVG" />
+</p>
 
 ###
 
