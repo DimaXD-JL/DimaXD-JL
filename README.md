@@ -25,7 +25,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&leftr=true&vCenter=true&width=435&lines=Hi%2C+I%E2%80%99m+Dzmitry+Stashkevich;Frontend+Developer+in+progress...;Learning+Angular%2C+TypeScript+JavaScript+%26+AI+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&left=true&vleft=true&width=435&lines=Hi%2C+I%E2%80%99m+Dzmitry+Stashkevich;Frontend+Developer+in+progress...;Learning+Angular%2C+TypeScript%2C+JavaScript" alt="Typing SVG" />
 </p>
 
 ###
